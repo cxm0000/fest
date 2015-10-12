@@ -1,0 +1,152 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : May 26, 2015, 10:51:49 PM
+    Author     : Xiaoming Cai <xiaoming.cai@ticnet.se>
+*/
+ul {
+    list-style: none;
+    list-style-position: inside;
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    margin-bottom: 20px;
+}
+
+.header h3 {
+    color: #333333;
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+#post-cover {
+    background-attachment: fixed;
+    background-position: center;
+    background-color: #efefef;
+    background-image: url("../img/want_u_for_partee.jpg");
+}
+
+
+.box {
+    margin: 20px auto auto auto;
+    max-width: 300px;
+    max-height: 364px;
+    line-height: 1.2em;
+	
+    -webkit-border-radius: 8px/7px;
+	-moz-border-radius: 8px/7px;
+	border-radius: 8px/7px;
+	background-color: #ebebeb;
+	-webkit-box-shadow: 1px 2px 5px rgba(0,0,0,.31);
+	-moz-box-shadow: 1px 2px 5px rgba(0,0,0,.31);
+	box-shadow: 1px 2px 5px rgba(0,0,0,.31);
+	border: solid 1px #cbc9c9;
+	box-shadow:
+        0px 0px 0px 5px rgba( 255,255,255,0.4 ),
+        0px 4px 20px rgba( 0,0,0,0.33 );
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    display: table;
+    position: static;
+}
+
+
+
+#submitButton {
+		margin-top: 0px;
+}
+
+.transparent{
+	background:rgba(255,255,255,0.8);
+}
+
+.wrapper {
+	margin: 0 auto;
+	padding: 20px 30px;
+}
+
+.desktop {
+    display: none;
+}
+
+
+
+@media screen and (min-width : 320px) {
+
+
+    .wrapper {
+        margin: 0 auto;
+        padding: 0 10px 10px 10px;
+    }
+
+	#submitButton {
+		margin-top: 10px;
+	}
+
+    #post-cover {
+        background-attachment: fixed;
+        background-position: center center;
+        background-size: cover;
+        min-height:100%;
+        position: absolute;
+        top: 0;
+        width: 100%;
+    }
+}
+
+@media screen and (min-width : 768px) {
+    .box {
+        font-size: 18px;
+        margin: 500px auto auto auto;
+        max-width: 643px;
+        max-height: 464px;
+        position: absolute;
+        left: 50%;
+        margin-left: -321px; /* width divided by 2 */
+    }
+
+	#submitButton {
+		margin-top: 10px;
+	}
+
+
+}
+
+@media screen and (min-width : 1024px) {
+
+	#submitButton {
+		margin-top: 0;
+	}
+
+    #post-cover {
+        background-size: contain;
+        background-repeat: no-repeat;
+    }
+
+    .desktop {
+        display: block;
+    }
+
+    .box {
+        margin: auto;
+        bottom: 20%;
+        max-width: 743px;
+        max-height: 464px;
+        position: absolute;
+        left: 50%;
+        margin-left: -371px; /* width divided by 2 */
+    }
+
+    #userEmail {
+        width: 400px;
+        margin-right: 10px;
+    }
+
+}
