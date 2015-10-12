@@ -7,10 +7,10 @@
         <!-- WARNING: for iOS 7, remove the width=device-width and height=device-height attributes. See https://issues.apache.org/jira/browse/CB-4323 -->
         <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1" />
         <title>M&S - Inflyttningsfest</title>
-        <script src="../js/libs/require.js"></script>
-		<script src="../js/app/bootstrap.js"></script>
+        <script src="js/libs/require.js"></script>
+		<script src="js/app/bootstrap.js"></script>
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
-		<link rel="stylesheet" href="../css/survey.css">
+		<link rel="stylesheet" href="css/survey.css">
 
     </head>
     <body>
