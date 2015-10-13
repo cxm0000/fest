@@ -35,7 +35,7 @@
 						
 						<ul>Our contacts:
 							<li>Ming: 0704214260</li>
-							<li>Shunshn: 0723299098</li>
+							<li>Shunshun: 0723299098</li>
 							<li>Lilou: miao miao miao =)</li>
 							<li><strong>Flintstensvägen 11, 43732, Lindome</strong></li>
 						</ul>
