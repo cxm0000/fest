@@ -22,7 +22,7 @@
 				
 				<section class="wrapper">
 					<div class="header">
-						<h3>M&S - Inflyttningsfest</h3>
+						<h3>M&S - Inflyttningsfest (2015-11-21 18:00)</h3>
 					</div>
 					<article class="help-block">
 						Hi friends!
@@ -37,7 +37,7 @@
 							<li>Ming: 0704214260</li>
 							<li>Shunshn: 0723299098</li>
 							<li>Lilou: miao miao miao =)</li>
-							<li>Flintstensvägen 11, 43732, Lindome</li>
+							<li><span>Flintstensvägen 11, 43732, Lindome</span></li>
 						</ul>
 					</p>
 					<a id="calendar" href="myevents.ics">Add to your calendar!</a>
