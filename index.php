@@ -28,14 +28,14 @@
 						Hi friends!
 
 						<summary>Sweden in November is getting dark and cold. Let's have a warm party together!</summary>
-						<p class="desktop">Me and my wife have moved in for some months and we have been working a bit on the house and finally now the project is over. We would like YOU to join us and celebrate it!</p>
+						<p class="desktop">We have moved in for some months and we have been working a bit on the house and finally now the project is over. We would like YOU to join us and celebrate it!</p>
 						<p class="desktop">The recommended way of getting here is to take the commute train towards Kungsbacka and get off at Lindome station. From there you could take a bus 761 or 763 and get off at Lundvägen then you will be 2 minute-walk away.</p>
 						<p class="desktop">Gifts are not necessary we will be glad enough that YOU come. We will prepare some snacks and soft drinks for all.</p>
 						<p>Note: if YOU are, in any way, allergic to cats, please let us know before hand.</p>
 						
 						<ul>Our contacts:
 							<li>Ming: 0704214260</li>
-							<li>Shunshun: 0723299098</li>
+							<li>Chenshun: 0723299098</li>
 							<li>Lilou: miao miao miao =)</li>
 							<li><strong>Flintstensvägen 11, 43732, Lindome</strong></li>
 						</ul>
