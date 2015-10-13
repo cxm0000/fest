@@ -34,8 +34,8 @@
 						<p>Note: if YOU are, in any way, allergic to cats, please let us know before hand.</p>
 						
 						<ul>Our contacts:
-							<li>Ming: 0704214260</li>
-							<li>Chenshun: 0723299098</li>
+							<li>Chenshun: <a href="tel:+46723299098">0723299098</a></li>
+							<li>Ming: <a href="tel:+46704214260">0704214260</a></li>
 							<li>Lilou: miao miao miao =)</li>
 							<li><strong>Flintstensvägen 11, 43732, Lindome</strong></li>
 						</ul>
