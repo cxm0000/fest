@@ -11,7 +11,7 @@ requirejs(["parse", "jquery"], function (Parse, jquery) {
             var userEmail = userEmailInput.val();
 
             if (userEmail.length === 0) {
-                alert("Please provide us a valid email.");
+                alert("Bruh, dont forget to put your name here =)");
                 return false;
             }
 

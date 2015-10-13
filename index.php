@@ -46,7 +46,7 @@
 						<div class="container-fluid">
 							<div class="row">
 								
-									<input type="input" class="form-control col-lg-8 col-md-8 col-xs-12" id="userEmail" placeholder="Name" data-error="Bruh, you dont have a name? =)" required />
+									<input type="input" class="form-control col-lg-8 col-md-8 col-xs-12" id="userEmail" placeholder="Name" data-error="Bruh, dont forget to put your name here =)" required />
 									<button type="submit" id="submitButton" class="btn btn-primary col-lg-4 col-md-4 col-xs-12">Join!</button>
 								
 							</div>
